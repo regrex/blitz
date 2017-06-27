@@ -7,7 +7,7 @@
       <cell title="模板列表" is-link></cell>
       <cell title="卡片列表" is-link></cell>
     </group>
-    <router-link class="new-tpl-btn" to="/NewTpl"><x-button plain type="primary" style="border-radius:99px;">New Tpl</x-button></router-link>
+    <router-link class="new-tpl-btn" to="/NewTpl"><x-button plain type="primary" style="border-radius:22px;">新建模板</x-button></router-link>
   </div>
 </template>
 
