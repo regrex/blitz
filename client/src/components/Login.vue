@@ -4,7 +4,6 @@
       <x-input title="用户名" name="username" v-model="userName" placeholder="请输入用户名" ></x-input>
       <x-input title="年龄" name="age" v-model="age" placeholder="请输入年龄"></x-input>
     </group>
-    <!-- <x-button class="login-btn" plain type="primary" v-on:click="addUser">登录</x-button> -->
     <a v-on:click="addUser">登录</a>
   </div>
 </template>
